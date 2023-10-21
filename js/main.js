@@ -1,6 +1,6 @@
 // FAQ Accordian
 
-const cat = document.addEventListener("DOMContentLoaded", () => {
+const faq = document.addEventListener("DOMContentLoaded", () => {
   const faqContainer = document.querySelector(".faq-content");
 
   faqContainer.addEventListener("click", (e) => {
@@ -32,4 +32,15 @@ const cat = document.addEventListener("DOMContentLoaded", () => {
       }
     });
   });
+});
+
+// Mobile menu
+
+const mobileSetting = document.addEventListener("DOMContentLoaded", () => {
+  const hamburgerButton = document.querySelector(".hamburger-button");
+  const mobileMenu = document.querySelector(".mobile-menu");
+
+  hamburgerButton.addEventListener("click", () =>
+    mobileMenu.classList.toggle("active")
+  );
 });
