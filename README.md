@@ -10,4 +10,4 @@ Desktop version:
 
 Mobile version:
 
-<img src="./images/Mobile-version-preview.jpg" alt="mobile version" width="600">
+<img src="./images/Mobile-version-preview.jpg" alt="mobile version" width="500">
