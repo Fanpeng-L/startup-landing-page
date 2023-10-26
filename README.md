@@ -1,8 +1,6 @@
 # This is landing page for startups.
 
-See the preview of the website here👇:
-
-**🔗 [Link for preview](https://startup-landingpage-fanpeng.netlify.app/)**
+**🔗 [Try Here](https://startup-landingpage-fanpeng.netlify.app/)**
 
 Desktop version:
 
